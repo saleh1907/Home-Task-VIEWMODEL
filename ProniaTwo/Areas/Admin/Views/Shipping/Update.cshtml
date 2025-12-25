@@ -1,0 +1,27 @@
+﻿@model Shipping
+<div class="container">
+    <div class="row">
+
+
+        <form method="post"  asp-controller="Shipping">
+            <div class="form-group">
+                <label for="title">Title</label>
+                <input asp-for="Title" class="form-control" id="title" placeholder="Title">
+                <span class="text-danger" asp-validation-for="Title"></span>
+            </div>
+            <div class="form-group">
+                <label for="Description">Description</label>
+                <input asp-for="Description" class="form-control" id="Description" placeholder="Description">
+                <span class="text-danger" asp-validation-for="Description"></span>
+            </div>
+            <div class="form-group">
+                <label for="Icon">Icon</label>
+                <input Asp-For="Icon" class="form-control" id="Icon" placeholder="Icon">
+                <span class="text-danger" asp-validation-for="Icon"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-action="Index" class="btn btn-primary">Cancel</a>>
+        </form>
+    </div>
+</div>

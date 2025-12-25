@@ -1,0 +1,43 @@
+﻿@model List<Productt>
+
+<div class="container">
+    <div class="row">
+        <div class="col-4"><h2>Products</h2></div>
+        <a class="btn btn-succes" asp-action="Create">Create</a>
+        <table class="table table-striped table-dark">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">MainImagePath</th>
+                    <th scope="col">HowerImagePath</th>
+                    <th scope="col">Category Name</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Productt productt in Model)
+                {
+
+                    <tr>
+                        <th scope="row">@productt.Id</th>
+                        <td>@productt.Name</td>
+                        <td>@productt.Description</td>
+                        <td>@productt.Price</td>
+                        <td>@productt.Category.Name</td>
+                        <td> <img src="~/assets/images/@productt.MainImagePath" width="30" height="30" alt="Alternate Text" /></td>
+                        <td> <img src="~/assets/images/@productt.HoverImagePath" width="30" height="30" alt="Alternate Text" /></td>
+                        <td>
+                            <a class="btn btn-warning">Update</a>
+                            <a asp-action="Update" asp-route-id="@productt.Id" class="btn btn-danger">Update</a>
+                            <a asp-action="Delete" asp-route-id="@productt.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
