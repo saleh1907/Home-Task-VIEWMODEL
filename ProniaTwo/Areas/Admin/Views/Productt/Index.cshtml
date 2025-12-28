@@ -1,4 +1,4 @@
-﻿@model List<Productt>
+﻿@model List<ProniaTwo.ViewModels.ProductViewModels.ProductGetVM>
 
 <div class="container">
     <div class="row">
@@ -11,14 +11,14 @@
                     <th scope="col">Name</th>
                     <th scope="col">Description</th>
                     <th scope="col">Price</th>
+                    <th scope="col">Category Name</th>
                     <th scope="col">MainImagePath</th>
                     <th scope="col">HowerImagePath</th>
-                    <th scope="col">Category Name</th>
                     <th scope="col">Actions</th>
                 </tr>
             </thead>
             <tbody>
-                @foreach (Productt productt in Model)
+                @foreach (ProductGetVM productt in Model)
                 {
 
                     <tr>
@@ -26,13 +26,14 @@
                         <td>@productt.Name</td>
                         <td>@productt.Description</td>
                         <td>@productt.Price</td>
-                        <td>@productt.Category.Name</td>
-                        <td> <img src="~/assets/images/@productt.MainImagePath" width="30" height="30" alt="Alternate Text" /></td>
-                        <td> <img src="~/assets/images/@productt.HoverImagePath" width="30" height="30" alt="Alternate Text" /></td>
+                        <td>@productt.CategoryName</td>
+                        <td> <img src="~/assets/images/website-images/@productt.MainImagePath" width="30" height="30" alt="Alternate Text" /></td>
+                        <td> <img src="~/assets/images/website-images/@productt.HoverImagePath" width="30" height="30" alt="Alternate Text" /></td>
                         <td>
-                            <a class="btn btn-warning">Update</a>
-                            <a asp-action="Update" asp-route-id="@productt.Id" class="btn btn-danger">Update</a>
-                            <a asp-action="Delete" asp-route-id="@productt.Id" class="btn btn-danger">Delete</a>
+
+                            <a asp-action="Detail" asp-route-id="@productt.Id" class="btn btn-danger"><i class="fa-solid fa-info"></i></a>
+                            <a asp-action="Update" asp-route-id="@productt.Id" class="btn btn-danger"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a asp-action="Delete" asp-route-id="@productt.Id" class="btn btn-danger"><i class="fa-solid fa-trash"></i></a>
                         </td>
                     </tr>
                 }

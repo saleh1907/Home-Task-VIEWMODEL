@@ -13,11 +13,7 @@ namespace ProniaTwo.Controllers
 
         public IActionResult Index()
         {
-            var shippings = _context.Shippings
-                                   //.Where(s => s.Title == "Pulsuz Catdirilma" ||
-                                   //            s.Title == "tehlikesiz odenis" ||
-                                   //            s.Title == "En yaxsi Servis")
-                                   .ToList();
+            var shippings = _context.Shippings.ToList();
            
             ViewBag.Shippings = shippings;
 
