@@ -30,6 +30,26 @@
                 <span class="text-danger" asp-validation-for="HoverImage"></span>
             </div>
             <div class="form-group">
+  
+                @for (int i = 0; i < Model.AdditionalImagePath.Count; i++)
+                    {
+                    string imagePath = Model.AdditionalImagePath[i];
+                    <div class="imageDiv">
+
+                    <input type="hidden" asp-for="AdditionalImagePath" value="@imagePath" />
+                    <input type="hidden" asp-for="AdditionalImageIds" value="@Model.AdditionalImageIds[i]" />
+                
+                    <div class="image" style="position:relative;width:50px;height:50px;display:inline ">
+                        <img src="~/assets/images/website-images/@imagePath" width="50" height="50" />
+                        <span style="position:absolute;right: 4px;top:-14px;padding:1px;background-color:red;color:white;font-size:10px;cursor:pointer" class="closeButton">X</span>
+                    </div>
+                    </div>
+                    }
+                <label for="Images">Images</label>
+                <input Asp-For="Images" class="form-control" id="Images">
+                <span class="text-danger" asp-validation-for="Images"></span>
+            </div>
+            <div class="form-group">
                 <label for="Icon">Price</label>
                 <input Asp-For="Price" class="form-control" id="Price" placeholder="Price">
                 <span class="text-danger" asp-validation-for="Price"></span>
@@ -62,7 +82,18 @@
             </div>
 
             <button type="submit" class="btn btn-primary">Submit</button>
-            <a asp-action="Index" class="btn btn-primary">Cancel</a>>
+            <a asp-action="Index" class="btn btn-primary">Cancel</a>
         </form>
     </div>
 </div>
+
+                    <script>
+    const removeButtons=document.querySelectorAll(".closeButton");
+    removeButtons.forEach(btn=>{
+        btn.addEventListener("click",(e)=>{
+            e.preventDefault();
+
+            btn.parentElement.parentElement.remove();
+        })
+    })
+                    </script>

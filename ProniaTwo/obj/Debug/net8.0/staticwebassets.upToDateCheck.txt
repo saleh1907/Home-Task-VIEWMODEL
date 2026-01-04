@@ -971,6 +971,7 @@ wwwroot\assets\images\testimonial\icon\quotation.png
 wwwroot\assets\images\testimonial\user\1.png
 wwwroot\assets\images\testimonial\user\2.png
 wwwroot\assets\images\testimonial\user\3.png
+wwwroot\assets\images\website-images\0865779a-7920-46db-9571-466c34a0f37dimages.jfif
 wwwroot\assets\images\website-images\0bf3c6b5-732f-4f32-81c5-116c4970af2aEkran görüntüsü 2025-05-07 204713.png
 wwwroot\assets\images\website-images\1--1rnu4p.png
 wwwroot\assets\images\website-images\1-1-120x120.webp
@@ -1012,18 +1013,28 @@ wwwroot\assets\images\website-images\1-7-270x300.jpg
 wwwroot\assets\images\website-images\1-8-270x300.jpg
 wwwroot\assets\images\website-images\1-9-270x300.jpg
 wwwroot\assets\images\website-images\1.png
-wwwroot\assets\images\website-images\12b9a580-e932-4cf8-83d1-0331f4cfcb6dEkran görüntüsü 2025-07-22 191727.png
 wwwroot\assets\images\website-images\2-1-370x270.webp
 wwwroot\assets\images\website-images\2-1-70x78.png
 wwwroot\assets\images\website-images\2-2-370x270.webp
 wwwroot\assets\images\website-images\2-2-70x78.png
 wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\2.png
+wwwroot\assets\images\website-images\2535500f-4aee-4fd3-ae18-04ee6f389561images.jfif
 wwwroot\assets\images\website-images\3.png
+wwwroot\assets\images\website-images\42334a6d-2ef2-4a63-b021-2f31d1a11306istockphoto-517188688-612x612.jpg
+wwwroot\assets\images\website-images\4d069b67-2b32-480e-abd2-b2ba6fb6aa87Ekran görüntüsü 2025-07-22 191610.png
+wwwroot\assets\images\website-images\546678a4-afe8-481d-ba7a-afe5ec0520a6istockphoto-517188688-612x612.jpg
+wwwroot\assets\images\website-images\7285ac6a-96da-452c-929a-3459fe1f68eaEkran görüntüsü 2025-05-21 111630.png
+wwwroot\assets\images\website-images\9d8100e4-15aa-4e8c-ae1a-2f9182302f69images (1).png
+wwwroot\assets\images\website-images\a078b18c-c20d-4f22-87e7-7616150113abEkran görüntüsü 2025-05-07 204713.png
 wwwroot\assets\images\website-images\a76a8591-6b8d-42e8-8a28-fc202a831e94Ekran görüntüsü 2025-05-21 111602.png
+wwwroot\assets\images\website-images\acaa625a-44ff-41d5-b2e8-9924df3fb53cMAA.jpeg
 wwwroot\assets\images\website-images\b3a2e196-832d-478d-b8df-b5f36a7ce881images.jfif
+wwwroot\assets\images\website-images\ba892bf5-00f5-4161-a644-2d4f6d5e3619MAA.jpeg
+wwwroot\assets\images\website-images\ca539ca0-2b58-46b5-ac2b-59ffe57f5c28Ekran görüntüsü 2025-07-22 191644.png
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
+wwwroot\assets\images\website-images\cc0dfea5-6f0b-4065-876f-803a0cc39033Ekran görüntüsü 2025-05-21 111630.png
 wwwroot\assets\images\website-images\d1492db1-1cc8-44eb-8aeb-dfd2d70807ddEkran görüntüsü 2025-05-07 211409.png
 wwwroot\assets\images\website-images\d9ebe5e1-08f9-4a4d-87f9-f2cb3a522a36Ekran görüntüsü 2025-05-21 111638.png
 wwwroot\assets\images\website-images\dark.png

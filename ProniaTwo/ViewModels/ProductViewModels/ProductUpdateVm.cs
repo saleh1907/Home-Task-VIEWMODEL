@@ -5,6 +5,8 @@ namespace ProniaTwo.ViewModels.ProductViewModels;
 
 public class ProductUpdateVm 
 {
+    internal List<int> AdditionalImageIds;
+
     public int Id { get; set; }
     [Required]
     public string Name { get; set; }
@@ -25,6 +27,7 @@ public class ProductUpdateVm
 
     public string? MainImagePath { get; set; }
     public string? HoverImagePath { get; set; }
+    public List<string> AdditionalImagePath { get; set; } = [];
 }
 
 
