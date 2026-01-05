@@ -1,4 +1,4 @@
-﻿using ProniaTwo.Models.Common;
+﻿ using ProniaTwo.Models.Common;
 using System.ComponentModel.DataAnnotations;
 
 namespace ProniaTwo.Models;

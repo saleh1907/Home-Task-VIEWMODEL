@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20260105214709_changeUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProniaTwo\\Migrations\\20260105214709_changeUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20260105213928_addedIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProniaTwo\\Migrations\\20260105213928_addedIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\areas\\admin\\views\\productt\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\areas\\admin\\views\\productt\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\models\\productt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -95,16 +139,8 @@
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\areas\\admin\\views\\shipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\areas\\admin\\views\\productt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\areas\\admin\\views\\productt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -131,16 +167,8 @@
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|solutionrelative:proniatwo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5786D74C-4DAA-40A3-82D6-9F8E8FAA68AE}|ProniaTwo\\ProniaTwo.csproj|c:\\users\\acer\\desktop\\proniatwo\\proniatwo\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,67 +190,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Program.cs",
               "RelativeDocumentMoniker": "ProniaTwo\\Program.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Program.cs",
               "RelativeToolTip": "ProniaTwo\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAABaAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T07:42:49.523Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Views\\Shop\\Detail.cshtml",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAiwNoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-04T17:21:46.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProducttController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T18:17:51.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAAAOQAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T23:47:02.371Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProniaTwo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T21:49:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ProniaTwo\\ViewModels\\UserViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:15:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T21:51:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "ProniaTwo\\Controllers\\ShopController.cs",
@@ -236,54 +261,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
-              "ViewState": "AgIAAEgAAAAAH8tuPDgwwFgAAAAAAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T19:35:19.079Z"
+              "WhenOpened": "2025-12-21T09:55:48.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductUpdateVm.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
-              "RelativeToolTip": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T15:08:01.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Helpers\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Helpers\\ExtensionMethods.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Helpers\\ExtensionMethods.cs",
-              "RelativeToolTip": "ProniaTwo\\Helpers\\ExtensionMethods.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T15:34:37.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T17:57:20.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ProductGetVM.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
               "RelativeDocumentMoniker": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
@@ -291,31 +281,21 @@
               "RelativeToolTip": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:41:15.98Z"
+              "WhenOpened": "2025-12-28T19:41:15.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "RelativeToolTip": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T21:18:34.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Productt.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Productt.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Productt.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Productt.cs",
-              "RelativeToolTip": "ProniaTwo\\Models\\Productt.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T18:02:49.232Z"
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T10:27:22.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -327,275 +307,12 @@
               "RelativeToolTip": "ProniaTwo\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T07:45:50.722Z"
+              "WhenOpened": "2025-12-21T07:45:50.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Shipping.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Shipping.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Shipping.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Shipping.cs",
-              "RelativeToolTip": "ProniaTwo\\Models\\Shipping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T10:53:41.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductTag.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\ProductTag.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Models\\ProductTag.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\ProductTag.cs",
-              "RelativeToolTip": "ProniaTwo\\Models\\ProductTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:32:03.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T19:10:37.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T19:29:49.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T18:49:43.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Tag.cs",
-              "RelativeToolTip": "ProniaTwo\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T18:51:15.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T10:27:22.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T19:07:35.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwDIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T18:40:02.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T19:54:54.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T19:27:47.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T18:19:26.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "ProniaTwo\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T10:33:06.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC8BAAAAAAAAAAAswEwBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T19:03:07.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T20:24:28.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProniaTwo.csproj",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ProniaTwo.csproj",
-              "RelativeDocumentMoniker": "ProniaTwo\\ProniaTwo.csproj",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ProniaTwo.csproj",
-              "RelativeToolTip": "ProniaTwo\\ProniaTwo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-21T07:44:36.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20251225211033_addedProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
-              "RelativeToolTip": "ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T21:10:34.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ShippingController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
-              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T19:24:36.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20251224182943_adProductt.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
-              "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
-              "RelativeToolTip": "ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T18:29:43.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\appsettings.json",
-              "RelativeDocumentMoniker": "ProniaTwo\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\appsettings.json",
-              "RelativeToolTip": "ProniaTwo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-21T10:37:14.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T09:55:48.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProniaTwo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAcwFkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T07:46:34.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProniaTwo\\Views\\Home\\Index.cshtml",
@@ -603,11 +320,445 @@
               "RelativeToolTip": "ProniaTwo\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAKAKAAAAAAAAAAAkwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T07:46:04.272Z"
+              "WhenOpened": "2025-12-21T07:46:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260105214709_changeUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20260105214709_changeUsersTable.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20260105214709_changeUsersTable.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20260105214709_changeUsersTable.cs",
+              "RelativeToolTip": "ProniaTwo\\Migrations\\20260105214709_changeUsersTable.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T21:47:10.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260105213928_addedIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20260105213928_addedIdentity.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20260105213928_addedIdentity.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20260105213928_addedIdentity.cs",
+              "RelativeToolTip": "ProniaTwo\\Migrations\\20260105213928_addedIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T21:39:28.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\AppUser.cs",
+              "RelativeToolTip": "ProniaTwo\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T17:34:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Category.cs",
+              "RelativeToolTip": "ProniaTwo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T17:33:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ProniaTwo\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T10:33:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAiwNoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T17:21:46.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProducttController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Controllers\\ProducttController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:17:51.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAANwAAAAAAAAAAIBJwOQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-25T23:47:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Update.cshtml",
+              "ViewState": "AgIAAEgAAAAAH8tuPDgwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T19:35:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductUpdateVm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
+              "RelativeToolTip": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductUpdateVm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:08:01.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Helpers\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Helpers\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Helpers\\ExtensionMethods.cs",
+              "RelativeToolTip": "ProniaTwo\\Helpers\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T17:57:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeToolTip": "ProniaTwo\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:18:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Productt.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Productt.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Productt.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Productt.cs",
+              "RelativeToolTip": "ProniaTwo\\Models\\Productt.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:02:49.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Shipping.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Shipping.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Shipping.cs",
+              "RelativeToolTip": "ProniaTwo\\Models\\Shipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T10:53:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\ProductTag.cs",
+              "RelativeToolTip": "ProniaTwo\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:32:03.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T19:10:37.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T19:29:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:49:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Tag.cs",
+              "RelativeToolTip": "ProniaTwo\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:51:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T19:07:35.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Create.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T18:40:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T19:54:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T19:27:47.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Productt\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T18:19:26.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAswEwBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T19:03:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Views\\Shipping\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T20:24:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProniaTwo.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ProniaTwo.csproj",
+              "RelativeDocumentMoniker": "ProniaTwo\\ProniaTwo.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\ProniaTwo.csproj",
+              "RelativeToolTip": "ProniaTwo\\ProniaTwo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T07:44:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251225211033_addedProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
+              "RelativeToolTip": "ProniaTwo\\Migrations\\20251225211033_addedProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:10:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShippingController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "RelativeToolTip": "ProniaTwo\\Areas\\Admin\\Controllers\\ShippingController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:24:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251224182943_adProductt.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
+              "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
+              "RelativeToolTip": "ProniaTwo\\Migrations\\20251224182943_adProductt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:29:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaTwo\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\appsettings.json",
+              "RelativeToolTip": "ProniaTwo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T10:37:14.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaTwo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaTwo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwFkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T07:46:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ProniaTwo\\Models\\Common\\BaseEntity.cs",
@@ -615,11 +766,12 @@
               "RelativeToolTip": "ProniaTwo\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T15:35:32.979Z"
+              "WhenOpened": "2025-12-24T15:35:32.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "20251221105025_Init.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\ProniaTwo\\ProniaTwo\\Migrations\\20251221105025_Init.cs",
               "RelativeDocumentMoniker": "ProniaTwo\\Migrations\\20251221105025_Init.cs",
@@ -627,7 +779,8 @@
               "RelativeToolTip": "ProniaTwo\\Migrations\\20251221105025_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T10:50:26.299Z"
+              "WhenOpened": "2025-12-21T10:50:26.299Z",
+              "EditorCaption": ""
             }
           ]
         }
