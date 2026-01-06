@@ -1,0 +1,6 @@
+C:\Users\student\Source\Repos\Home-Task-VIEWMODEL1\ProniaTwo\wwwroot\bootstrap.min.css
+C:\Users\student\Source\Repos\Home-Task-VIEWMODEL1\ProniaTwo\wwwroot\bootstrap.min.js
+C:\Users\student\Source\Repos\Home-Task-VIEWMODEL1\ProniaTwo\wwwroot\jquery.fancybox.min.css
+C:\Users\student\Source\Repos\Home-Task-VIEWMODEL1\ProniaTwo\wwwroot\jquery.fancybox.min.js
+C:\Users\student\Source\Repos\Home-Task-VIEWMODEL1\ProniaTwo\wwwroot\jquery.js
+C:\Users\student\Source\Repos\Home-Task-VIEWMODEL1\ProniaTwo\wwwroot\script.js

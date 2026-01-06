@@ -1093,9 +1093,3 @@ wwwroot\assets\scss\_slider.scss
 wwwroot\assets\scss\_testimonial.scss
 wwwroot\assets\scss\_variables.scss
 wwwroot\assets\scss\_wishlist.scss
-wwwroot\bootstrap.min.css
-wwwroot\bootstrap.min.js
-wwwroot\jquery.fancybox.min.css
-wwwroot\jquery.fancybox.min.js
-wwwroot\jquery.js
-wwwroot\script.js
